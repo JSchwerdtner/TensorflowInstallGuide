@@ -22,3 +22,7 @@ Googledrivelink for CUDNN 8.0: https://drive.google.com/file/d/19emjtDPahu-zGadj
 7. check evironment variables for: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin
 
 C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp
+
+Youtube Tutorial: https://www.youtube.com/watch?v=k5QJV_TFWGw&ab_channel=JanSchwerdtner
+
+edit 2021: Tensorflow 2 is now available and the prerequisites are quite similar for the tf-gpu installation. You need to add the necessary .dll-files to your path.
