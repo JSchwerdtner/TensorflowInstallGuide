@@ -1,9 +1,8 @@
-# TensorflowInstallGuide
+# Tensorflow-GPU InstallGuide Prerequisites
 
 Tensorflow Installation Tutorial:
 
-First step is to have a Geforce GPU and a Webcam
-
+First step is to have a Geforce GPU
 
 1. Delete all Drivers of Geforce and Visual Studio
 
